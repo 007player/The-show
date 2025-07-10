@@ -1,10 +1,10 @@
 # The-show  
 
-版本：测试版 
+banben：测试版 
 
-QQ群：808033909  
+qq_qun：808033909  
 
-
+jiaqunlianjie : "https://qm.qq.com/q/STHyEwFvq0"
 
 
  
