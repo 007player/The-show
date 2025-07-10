@@ -1,8 +1,8 @@
 # The-show  
 
-banben：1.0
+banben：测试版
 
-qq_qun：123456789  
+qq_qun：808033909 
 
 jiaqunlianjie : "https://qm.qq.com/q/STHyEwFvq0"
 
