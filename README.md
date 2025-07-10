@@ -1,6 +1,6 @@
 # The-show  
 
-banben：测试版1.0
+banben：1.0
 
 qq_qun：54545545 
 
