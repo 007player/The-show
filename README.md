@@ -2,12 +2,12 @@
 
 banben：测试版
 
-qq_qun： 21654645
+qq_qun： 808033909
 
-jiaqunlianjie : "www.baidu.com"
+jiaqunlianjie : https://qm.qq.com/q/STHyEwFvq0
 
 xiazailianjie :
 
 
  
-https://qm.qq.com/q/STHyEwFvq0808033909
+
